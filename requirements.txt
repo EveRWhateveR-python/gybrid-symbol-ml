@@ -1,0 +1,8 @@
+pandas
+numpy
+warnings
+pysr
+catboost
+xgboost
+scipy.stats
+time
