@@ -6,6 +6,15 @@ This research project develops hybrid approaches combining gradient boosting alg
 
 The hybrid approach leverages gradient boosting models and ARIMA to capture different aspects of time series patterns while using symbolic regression to model complex relationships and residuals, resulting in more accurate and interpretable forecasts.
 
+## Structure
+Hybrid prediction/
+├── data/
+│   ├── raw/
+├── notebooks/              # Jupyter notebooks
+├── charts/
+├── requirements.txt        # Требования к зависимостям
+└── README.md
+
 ## 🎯 Background and Motivation
 
 Time series forecasting is crucial for financial decision-making, but traditional approaches have limitations:
