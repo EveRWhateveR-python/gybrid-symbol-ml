@@ -10,7 +10,7 @@ The hybrid approach leverages gradient boosting models and ARIMA to capture diff
 ```
 Hybrid prediction/  
 ├── data/  
-│   ├── raw/  
+├── code/ 
 ├── notebooks/              # Jupyter notebooks  
 ├── charts/  
 ├── requirements.txt        # Требования к зависимостям  
