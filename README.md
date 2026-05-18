@@ -26,7 +26,7 @@ https://www.bybit.com/en/trade/spot/ETH/USDT
 * Python 3.11+
 * dependencies from requirements.txt
 
-** Fast start
+## Fast start
 ```
 #1. Install
 pip install -r dependencies requirements.txt
